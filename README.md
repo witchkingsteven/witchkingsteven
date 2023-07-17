@@ -1,16 +1,21 @@
-### Hi there 👋
+Welcome to my GitHub! I'm Steven, a Security Engineer with a focus on Incident Response.
 
-<!--
-**witchkingsteven/witchkingsteven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ✔️ I'm currently learning
+- Terraform
+- Python
+- AWS
+- CICD Pipelines
 
-Here are some ideas to get you started:
+### 😍 What I like to do:
+- Spending time with family
+- Staying physically active
+- Steamdeck Enthusiast
+- LEGO
+- Reading (mainly fantasy)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💡 Goals for 2023:
+- Start a project which aligns with my goals and adds to my skillset
+- Publish blog post on Phase 1 of the project
+
+### 🛠 Interested in:
+- Security, Cloud, Scripting, Games
