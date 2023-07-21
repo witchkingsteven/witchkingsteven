@@ -1,4 +1,4 @@
-![Header][def]
+![Header](assets/github-header-image.png)
 
 Welcome to my GitHub! I'm Steven, a Security Engineer with a focus on Incident Response.
 
@@ -21,5 +21,3 @@ Welcome to my GitHub! I'm Steven, a Security Engineer with a focus on Incident R
 
 ### 🛠 Interested in:
 - Security, Cloud, Scripting, Games
-
-[def]: .assets/your-header-image-name.png
