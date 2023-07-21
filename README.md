@@ -1,4 +1,5 @@
 ![Header](assets/github-header-image.png)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/stevenseguinot)
 
 Welcome to my GitHub! I'm Steven, a Security Engineer with a focus on Incident Response.
 
