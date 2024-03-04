@@ -5,16 +5,6 @@
 
 Welcome to my GitHub! I'm Steven, a Security Engineer with a focus on Incident Response.
 
-### ✔️ I'm currently learning
-- Java
-- Data Structures
-- Typescript
-
-### 😍 What I like to do:
-- Steamdeck Enthusiast
-- LEGO
-- Reading (mainly fantasy)
-
 ### 🛠 Skills & Techn Stack
 ![AWS Badge](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![GCP Badge](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
